@@ -79,12 +79,12 @@ This section includes analyses for all taxa, each ecotype, and each ecosystem:
 - VPA analysis quantifying the contributions of environmental factor groups
 - Distance decay relationships
 
-### 2B. Machine learning
+<!-- ### 2B. Machine learning
 
 This section includes machine learning model development to predict Shannon diversity with environmental variables:
 
 - Model performance
-- Quantification of feature importance
+- Quantification of feature importance -->
 
 ## 3. Microbial interaction
 
@@ -110,7 +110,7 @@ This section includes analyses to quantify the importance of stochastic (Drift, 
 
 ### 4B. Influence of environmental factors on community assembly
 
-This section includes analyses to quantify the contributions of environmental variables driving community assembly for all taxa, each ecotype, and each ecosystem
+This section includes analysis of the correlation between environmental variables and community assembly for all taxa.
 
 ## Methods
 

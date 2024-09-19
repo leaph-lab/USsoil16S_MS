@@ -1,0 +1,26 @@
+name: leaph-US_soil_microbiome_16s_stats
+channels:
+  - conda-forge
+  - bioconda
+  - r
+  - defaults
+dependencies:
+  - python
+  # - pip
+  # - pip:
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - matplotlib=3.7.3
+  - scipy
+  - statsmodels
+  - seaborn
+  - scikit-bio
+  - geopy
+  - statannotations
+  - scikit-learn
+  - xgboost
+  - lightgbm
+  - statsmodels
+  - basemap

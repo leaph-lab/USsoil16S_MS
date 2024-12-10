@@ -15,7 +15,7 @@ dependencies:
   - matplotlib=3.7.3
   - scipy
   - statsmodels
-  - seaborn
+  - seaborn=0.13.2
   - scikit-bio
   - geopy
   - statannotations
